@@ -8095,7 +8095,7 @@ class IDF(object):
             "outputcontrol:surfacecolorscheme"]
 
     @property
-    def outputtablesummaryreportss(self):
+    def outputtablesummaryreports(self):
         """Get list of all `OutputTableSummaryReports` objects.
 
         Raises:
